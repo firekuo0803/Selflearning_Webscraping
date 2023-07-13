@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, minimum-scale=1, viewport-fit=cover" />
+    <meta charset="utf-8" />
+    <title>Dcard 需要確認您的連線是安全的</title>
+    <style>*{box-sizing:border-box}a,body,div,h1,h2,html,p,pre,span{color:#000;margin:0;padding:0}body{background-color:#00324e;font-family:Roboto,Helvetica Neue,Helvetica,Arial,PingFang TC,黑體-繁,Heiti TC,蘋果儷中黑,Apple LiGothic Medium,微軟正黑體,Microsoft JhengHei,sans-serif}@media (max-width:798px){body{background-color:#fff}}.dcard_nav{align-items:center;background-color:#006aa6;display:flex;height:48px}.dcard_logo{height:28px;margin-left:124px;width:74px}@media (max-width:798px){.dcard_logo{margin-left:16px}}h1{font-size:28px;line-height:40px;margin:10px 0}h1,h2{font-weight:500}h2{font-size:24px;line-height:33px;margin:8px 0}p,pre{color:rgba(0,0,0,.75);font-size:14px;font-weight:400;line-height:20px}pre{margin:8px 0;white-space:pre-wrap;white-space:break-spaces;word-break:break-word}main{background-color:#fff;border-radius:4px;display:block;margin:24px 124px;padding:24px}@media (max-width:798px){main{margin:0;padding:0 16px}h1{font-size:24px;line-height:42px}h2{font-size:20px;line-height:33px}}a{background-color:transparent;color:#3397cf;text-decoration:none}:focus{outline:0}.dcard_captcha{align-items:center;display:flex;min-height:140px}@media (max-width:798px){.dcard_captcha{min-height:120px}}.dcard_ray_id_container{background-color:#eee;border-radius:5px;color:#000;display:inline-block;font-family:monospace;font-size:14px;line-height:20px;padding:8px}</style>
+  
+</head>
+
+  <body>
+    <nav class="dcard_nav">
+      <svg
+        class="dcard_logo"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        viewBox="0 0 723 272">
+        <defs>
+          <path id="a" d="M216 270H0V0h216z" />
+          <path id="c" d="M108.312 207.975v-207h-108v207z" />
+        </defs>
+        <g fill="none" fill-rule="evenodd">
+          <path
+            d="M146.313 104.458c-12.424 0-22.5 10.072-22.5 22.491 0 12.42 10.075 22.492 22.5 22.492 12.424 0 22.5-10.072 22.5-22.492 0-12.419-10.076-22.491-22.5-22.491"
+            fill="#fff" />
+          <g transform="translate(1 1)">
+            <mask id="b" fill="#fff">
+              <use xlink:href="#a" />
+            </mask>
+            <path
+              d="M189 162.025c0 2.805-.145 5.572-.423 8.303-2.943 2.088-6.494 3.371-10.378 3.371-1.461 0-2.861-.227-4.224-.554a49.594 49.594 0 0 1-19.755-11.974l-19.107 19.107c11.484 11.407 26.595 19.11 43.42 21.423-13.91 24.617-40.289 41.3-70.533 41.3H27V133.216c55.35-7.376 103.576-37.152 135.409-79.86 7.025 4.872 12.911 10.497 17.028 16.523A80.394 80.394 0 0 1 189 107.972v54.053zM108 0H0v270h108c59.647 0 108-48.349 108-107.975v-54.053C216 48.342 167.661 0 108 0z"
+              fill="#FFF"
+              mask="url(#b)" />
+          </g>
+          <path
+            d="M281.2 180.95c0-11.155 6.857-18.004 26.98-18.004 13.413 0 26.902 0 44.966 9.003v-.004s.143-26.99 0-26.99c-14.745-8.997-35.982-9.01-54.037-9.01-31.476 0-44.89 18.002-44.89 40.5-.022 26.974 0 27.002 0 27.002s-.022-.078 0 27c0 22.5 13.414 40.498 44.89 40.498 18.055 0 39.292-.013 54.037-9.004.143 0 0-26.995 0-26.995v-.005c-18.064 9.004-31.553 9.004-44.967 9.004-20.122 0-26.98-6.843-26.98-18.005V180.95zM461.313 243.947h-36s-15.832.413-15.75-13.5c-.082-13.915 15.998-18.08 51.75-18v31.5zm-18-108c-18.063 0-39.316.014-54.077 9.005-.144 0 0 26.995 0 26.995v.005c18.077-9.006 31.577-9.006 45-9.006 20.137 0 27.077 6.85 27.077 18.004v8.996c-42.98-.058-81 9.001-81 40.5 0 31.5 18 40.501 45 40.501h63v-67.5l-.077-27c0-22.5-13.423-40.5-44.923-40.5zM517.568 158.446v22.5h-.005v90.001h27v-90h-.043v-4.509c0-14.725 44.93-17.992 44.93-17.992s.254-22.499 0-22.499c-58.388 0-71.882 22.5-71.882 22.5"
+            fill="#FFF" />
+          <g transform="translate(614 63)">
+            <mask id="d" fill="#fff">
+              <use xlink:href="#c" />
+            </mask>
+            <path
+              d="M81.313 180.884h-27s-27 .916-27-26.981c0-27.896-1.328-46.647 10.584-54.924 11.916-8.275 43.416.944 43.416.944v80.96zm0-179.908h-9c8.814 28.555 8.995 74.544 9 76.402-1.63-.527-14.486-4.44-36-4.44-14.978 0-44.857.71-45 44.976 0 0 .018 13.633 0 22.49.03 2.443.053 2.76.072 2.16.048-11.44.048-1.76 0 0-.019 3.916-.041 10.27-.073 20.329.145 49.473 45 44.976 45 44.976h63V.976h-27z"
+              fill="#FFF"
+              mask="url(#d)" />
+          </g>
+        </g>
+      </svg>
+    </nav>
+    <main>
+      <h1>Dcard 需要確認您的連線是安全的</h1>
+      <h2>請稍候，並依據指示點擊下方驗證：</h2>
+      <div class="dcard_captcha"><form id="challenge-form" class="challenge-form" action="/6D4iRNdh.jpg?__cf_chl_f_tk=NXY4zrSkLpqW7c69Byt90czkIDp3UVxK3VY8EtvrLsQ-1671371053-0-gaNycGzNBWU" method="POST" enctype="application/x-www-form-urlencoded">
+    <div id="cf-please-wait">
+        <div id="spinner">
+            <div id="cf-bubbles">
+                <div class="bubbles"></div>
+                <div class="bubbles"></div>
+                <div class="bubbles"></div>
+            </div>
+        </div>
+        <p id="cf-spinner-please-wait">Please stand by, while we are checking your browser...</p>
+        <p id="cf-spinner-redirecting" style="display:none">Redirecting...</p>
+    </div>
+    <input type="hidden" name="md" value="GWCQHf5SPDl252jC_7v9NTbzzz3BGtD95NOsYlz4aec-1671371053-0-AX4NyzbGUibwkiJZ1T0Ptpjgy-xHiLJKDsegPdJvyow7op87Y7tuGlSSCTSjYkVr0tU1X7bMnLLgpgYgOEjuZ9t_AjFlM1gHv1zjwJ2bRot9ObfZvwawxbIl59jHu4aCIYjj5DOpBe5QbT3zLAr_994Mpo82UkUSnCps5bcgcnYyDAH1ToWDYfVJqD4udmWDkdJVHOf_UkdrdgN9UsU_ymBvmqnbVcjcou17B9OkfC_B2ab2UjRWLpDXY6PvHn-QCp_clhpd9nlqdWbuxer9CmYQrI6KhdKuulv0hwks1AmFMviJhkaM2WKPHX53FkFhK7Jg7YcQYrTOlDxSzD_CA1py15z01UHSCXvGCekqpLrkWHRTA4eKklKd-Is10C0sanhISy9sIhdaCAQIquREOS-MSRxoE2WK_HAIYcLT9_06Lz5ORqzAKbTZ4ONbJdaCyPfTv3CVrcUrtyw6DfAQQ0LU5SyBkHlftZ3Bvs65AiYX0E_MC7qKx_SE1VkL9cuJuR-o4nvzygEmSSgmESVC6SAzuCTRJm0kpcA9fcE0Hw6R9R2RISc-qOR0-IDPWkYVlue7gnKn7Eid6aOzfvQSlqrI74u2JjeqY3OlTjk6o48H2SsbDqJyo_BL4IRS5qLu8lF27VOUyh2rakrz_UyujIohQsWQhOl0DpAjlYBrFmYv" />
+    <input type="hidden" name="r" value="M8sorw9Y5LlRptl2xTZbyW6ebBS.6yGXlHnVfNe4EtQ-1671371053-0-ASDKSGCpwzCxxtI+pxtMuL3TrPIBBRwUPSpjYGwY7LQwVDHqI8PYD+/krRPq5XMUpiMgpGNTyV7Cd66oP6ThPFfls7ErPOdgOnY/A11ffdpP/ighzJXv6tlHvqlHi/n3ZdAx15c0KW6k5ikSVWmdkp0dAxo2wRbwGb5lYBmNu4K5W+i8WJhjDr1ZErn/17CQeMGKRFN452C9uqVz18Sydf/eI88R5TR8GL7DjwBabl5tFZMTlTRf9TGUqmmLRKDuWJ/ECbIdTGOAmjAPYLdaoaFvKV9zrEAjSgbhN6qUSUz9UW0TDuSa5AJaz54JkhOJ+UsUpzTgbTK2FOW8Hwzw8upSxo/dY2XQyacQ7aaCiGIpCVi5smuZKHBjgDZKwYSs3f/TTV7HELQVo8rfX0PwPGZcm7c7VHCdpKtX7D5IyhIk54wjERMMQ7gZUOofrpIvYNXlXrlks/32VMzRmYCObbcbis8L0q/KGFPTIybX/t9yToWVQhwadrieH9RFwYWWGBJBnshp01739WvuXu+jiuOOGxMrOGIIW3mFQ0kMHaZr3cgQLQR1AzzlE96qDNjXdtoQkbU7wPXOVQgnXzLTE7DBxKxKUVcYY5CZ2kcBhnjl+NNu1zZ1VuS0DGnYBwn73i/3BAFCLlEcZxj2viv8IC5Tb5T6y5KGlfaXONuo1M9fRFQan5RrAucsuhMVbcaKAIMSuIJC7k91BU+BZZFImeR7hZZVvmW7dTn07bVQ2cmOVt11v75YWMFhn6LyRI5Hkk3GgIhM4Ph22qElOfFh0SMNbKWDcjNYTudljnNrE6N0hJapHCbSdJ7slpWiAqGDmUqws9vo0tlQncTqrbEQzCwKY6f5+g7ItvUPUm6Z0J31Mh04GDm3x24D+3N2ddRKaCMuogL9Z84mBTOOhKoDtTi/6pN4BEzTqPNC04oKqAhj2fYAy+woIQHOSUzvwJNSxl4+wVEnyuxiPcdXj+8plbnpeWXRDLOUo6Ymb1cfUcKaSw2yberHcbYQvrcZ1HiuDjPQjs9hEpozM1boXmyIxGdac98xURZpf9uLTRPtRXMxQo8HB3kSG6GrmDgXNmHKG6DiT+xDzpiOe/GaPoyvcnWnk+WVRgoBcADiDVp3/pFbuX2Uq6xG7cfRmc9xYYUarFaidRluRGy0zfqqD8ptLV3grEIJdKF6je//3f0u63RaJ8+yMQIbeI329WL7VWBLtzd9P3TllWBOh3xM4bnTRE/IrfHJbiAqKsOT3JUkgFny10q5xA9BuC5A1zwZhd+4uderLNFOyCkGzQp8RlLkEal9+0sNMHFs7NxgkVk+v+dx">
+    <noscript id="cf-captcha-bookmark" class="cf-captcha-info">
+        <h1 style="color:#bd2426;">Please turn JavaScript on and reload the page.</h1>
+    </noscript>
+    <div id="no-cookie-warning" class="cookie-warning" style="display:none">
+        <p style="color:#bd2426;">Please enable Cookies and reload the page.</p>
+    </div>
+    <div id="trk_jschal_js" style="display:none;background-image:url('/cdn-cgi/images/trace/captcha/nojs/transparent.gif?ray=77b854fbd94d0758')"></div>
+</form>
+<script>
+    (function(){
+        window._cf_chl_opt={
+            cvId: '2',
+            cType: 'interactive',
+            cNounce: '48736',
+            cRay: '77b854fbd94d0758',
+            cHash: '5afbda853d3af12',
+            cUPMDTk: "\/6D4iRNdh.jpg?__cf_chl_tk=NXY4zrSkLpqW7c69Byt90czkIDp3UVxK3VY8EtvrLsQ-1671371053-0-gaNycGzNBWU",
+            cFPWv: 'g',
+            cTTimeMs: '1000',
+            cTplV: 1,
+            cTplB: 'cf',
+            cRq: {
+                ru: 'aHR0cHM6Ly9pbWd1ci5kY2FyZC50dy82RDRpUk5kaC5qcGc=',
+                ra: 'cHl0aG9uLXJlcXVlc3RzLzIuMjcuMQ==',
+                rm: 'R0VU',
+                d: 'nbvwq4CLbpMEwnFvSkgeNWQHC3dbDXyEWlqJg4n2ekQm1MCjzR8NNy/P0dR/dMDfpzHMRfz6pscb788M/vj5awFsgcLBX4RPzANExxJ8WP4p0yWAxqRySLvmdn0zuyDIuToVoYClTwpiDt4au8bxKBew1snvIEka4bi1hw0hYIO4R6nXdhEiaQRz5o2kVqoIXTYmqj9I8OvdaqR1J04A2vw3ZekEoMpOPcwLv67/TNgJKsybSdBIVLWDabEqXzm76x7oZ7flrXNDQB+E7virhpg+LJf2v8pEkf8k8sIDRZM8WQBA+kCV4Gjlq8mDAetgjPa/BBPIV7/acqx8cYn5S/H4sYxuQNXS1dqCp1w7vap1MMMH8H60RlQLEb26AQhCX21AcotZh1s11a+C6jLJN7TaK9VzH/ywQ9Mi9WMsmcyjMsBYytz3eZG2rkK85m9QGCE2RKOiKvjPEoBrrGrz8rW0c2p+KFf90+GeAOu4IUcCcQaKl2sHUxWXM7EaeQbFD1/GDnaTtSwQHma7TuSCEUkbWs956hGo7tY30FAjfOYiR5YAs/23gHzj2WhH7E+/wVraCTcnYBToGikhpGANTDejKfmT9rF1qPdCRmo/i+U=',
+                t: 'MTY3MTM3MTA1My40MTkwMDA=',
+                m: 'MisDvRyAwNVPyc/Ivkx/A9eb9Ow1Uy7Y4s5lAeTJTbA=',
+                i1: '+ZzX1zYhCIUMWkq/z6UYUQ==',
+                i2: 'h4sO5f3WpQ8Pr59DCyUkGw==',
+                zh: 'Ok+lSPYEdALB3ZANdgwyVRP4veQIRuHDtSrk9j6k5PM=',
+                uh: 'JNy/u1JaDY8l68+s834y37Qd6UIzTJLBzCkJPX4t/ps=',
+                hh: 'V1yYDL+IrgoUbS846uI6v39xA0uY1bRG/u182kmR5RU=',
+            }
+        };
+        var trkjs = document.createElement('img');
+        trkjs.setAttribute('src', '/cdn-cgi/images/trace/captcha/js/transparent.gif?ray=77b854fbd94d0758');
+        trkjs.setAttribute('style', 'display: none');
+        document.body.appendChild(trkjs);
+        var cpo = document.createElement('script');
+        cpo.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/captcha/v1?ray=77b854fbd94d0758';
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/6D4iRNdh.jpg?__cf_chl_rt_tk=NXY4zrSkLpqW7c69Byt90czkIDp3UVxK3VY8EtvrLsQ-1671371053-0-gaNycGzNBWU" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+                history.replaceState(null, null, ogU);
+            };
+        }
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+</script>
+
+</div>
+      <hr />
+      <pre>Dcard 在某些情況下會需要驗證請求是真實的人類，而非機器人。
+
+如果您符合以下行為，這可能是正常的現象：
+1. 您操作的頻率過快
+2. 您的瀏覽器版本過老舊或安裝的擴充程式異常
+3. 您使用公共網路或受監控的網路環境
+4. 您使用 VPN 或 Proxy 服務
+5. 您使用的網路曾經有異常行為</pre
+      >
+      <div class="dcard_ray_id_container">77b854fbd94d0758-175.182.108.101</div>
+    </main>
+  </body>
+</html>
